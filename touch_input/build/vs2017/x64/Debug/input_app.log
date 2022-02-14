@@ -1,0 +1,5 @@
+﻿  GameObject.cpp
+D:\Uni\Year 2\CMP208\Week 3 - Touch Input\touch_input\build\vs2017\GameObject.cpp(123,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uni\Year 2\CMP208\Week 3 - Touch Input\touch_input\build\vs2017\GameObject.cpp(159,132): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Uni\Year 2\CMP208\Week 3 - Touch Input\touch_input\build\vs2017\GameObject.cpp(236,104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  input_app.vcxproj -> D:\Uni\Year 2\CMP208\Week 3 - Touch Input\touch_input\build\vs2017\x64\Debug\input_app.exe
